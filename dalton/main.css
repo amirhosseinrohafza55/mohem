@@ -1,0 +1,11 @@
+.fix-bg{
+    background-image: url('bg.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.scroll{
+    height: 800px;
+    background-color: goldenrod;
+}
